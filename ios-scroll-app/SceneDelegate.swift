@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  ios-scroll-app
-//
-//  Created by yona nagayama on 7/12/21.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
